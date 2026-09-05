@@ -1,1 +1,359 @@
 #EXTM3U
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-1
+http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-2
+http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-2
+http://173.208.212.130:8181/720p/cctv2.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-3
+http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-3
+http://221.7.175.154:8445/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-3
+http://112.30.73.119:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-3
+http://69.30.245.50/live/cctv3.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-3
+http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-4
+http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-5
+http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-5
+http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-5
+http://112.30.73.119:229/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-5
+http://207.56.13.146:81/cdnlive/cctv5.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://112.30.73.119:229/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://182.140.125.47:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://112.30.73.119:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://207.56.13.146:81/cdnlive/cctv6.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://204.12.221.218:8181/3m1080p/cctv6.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-6
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-7
+http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-7
+http://207.56.13.146:81/cdnlive/cctv7.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://219.147.245.238:25480/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://112.30.73.119:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://112.30.73.119:229/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://69.30.245.50/live/cctv8.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-8
+http://173.208.212.130:8181/720p/cctv8.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-10
+https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-13
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-14
+https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-14
+http://173.208.212.130:8181/1080p/cctv14.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-15
+http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-15
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-17
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-5+
+http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV4
+http://112.27.5.218:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV9
+http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV10
+http://112.30.73.119:229/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV11
+http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV17
+http://112.27.5.218:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV1
+http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV12
+http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV12
+http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV7
+http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV7
+http://221.226.51.220:50081/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV15
+http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV16
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-14少儿
+http://113.25.252.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-1综合
+http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV5体育
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=2026090422011327d0697f834a4cfebbbbd928b7fd566c&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260904220113&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20260904220113&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=469d4007990562a0fe2b829be8bd7405
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV8电视剧
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=20260904220255e10fcb9360994209ab923961888eba4a&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260904220255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=171.8.79.254&SecurityKey=20260904220255&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6fbe48e0a1a1e7286e792479b05e5157
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV12社会与法
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=2026090422025629713926ea094857b86911e30dd45765&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260904220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=171.8.79.254&SecurityKey=20260904220256&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3fa780d3f3470562933d8025f081f15d
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV4欧洲
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?msisdn=2026090422025738f809280e584009ae664ffd7274cc5a&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260904220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=171.8.79.254&SecurityKey=20260904220257&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3e9da747270b18585e0094ef28550921
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV8
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV2财经
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=20260904220103b2e89820f10d401b9b3459bf7b8ebb4c&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260904220103&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=171.8.79.254&SecurityKey=20260904220103&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb8e50bca6444bbe594e3e060d2c2546
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV17农业农村
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=2026090422025649c4996b5f04435aa83653e7236e5e2e&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260904220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=171.8.79.254&SecurityKey=20260904220256&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2c284fc8b7713127135cebc176a789c
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV4美洲
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4meihd/50/index.m3u8?msisdn=202609042202571f240e19be9b46e7821076089792bb3b&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260904220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=171.8.79.254&SecurityKey=20260904220257&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a2901ec4a527ff4d51fdd6a681299488
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV10科教
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=20260904220256391d0a8bafa14c1abeb4e1ae64186a39&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260904220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=171.8.79.254&SecurityKey=20260904220256&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2f51e303575874b41126fc235f8e9187
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV11戏曲
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20260904220256f8785cc6f33a48599fd2000ad54d3ef3&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260904220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=171.8.79.254&SecurityKey=20260904220256&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=78e8f4410f523d4a7d3e7f6efe9bb62b
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-2财经
+http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-2财经
+http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV15音乐
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20260904220256c7fe012977ad4ba5897c8ab34179929f&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260904220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=171.8.79.254&SecurityKey=20260904220256&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=121d875fd8cd4866845dbc8d671f6262
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-4中文国际
+http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-7国防军事
+http://113.25.252.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-9纪录
+http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-11戏曲
+http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-12社会与法
+http://113.25.252.226:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV4中文国际
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=20260904220110ea45afdfea624876af88569fceaea983&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260904220110&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=171.8.79.254&SecurityKey=20260904220110&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b560666da115455443797dd48c3c010e
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV7国防军事
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=2026090422012041c5cea02797410291d433c179881976&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260904220120&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=171.8.79.254&SecurityKey=20260904220120&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31a2927d24e87dee04b9fbb46e0afcd5
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV14少儿
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=2026090422025643cf0c8675b64273b31bdb41f0bd570d&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260904220256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=171.8.79.254&SecurityKey=20260904220256&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8726ed5b9a4377220694463bb6bbcbc2
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CCTV-10科教
+http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CHC家庭影院
+http://192.151.150.154/live/chcjt.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CHC家庭影院
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CHC动作电影
+http://192.151.150.154/live/chcdz.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CHC高清电影
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CHC影迷电影
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202609042203091954bef0e4d74bbfb66a0844aa92a898&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260904220309&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260904220309&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f19ec1dad2d93c4e32d196128e3e5c43
+#EXTINF:-1 group-title="🇨🇳IPV4线路",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳IPV4线路",北京卫视4K超高清
+http://120.211.62.180:8000/hls/35/index.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",北京卫视4K超高清
+http://182.150.23.74:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",东方卫视4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",湖南卫视4K
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",北京卫视
+http://104.152.209.49:8181/720p/bjws.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",兵团卫视
+http://genglei.8866.org:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",大湾区卫视
+http://198.204.228.26/live/nfws.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",凤凰卫视
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+#EXTINF:-1 group-title="🇨🇳IPV4线路",凤凰卫视
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",凤凰资讯
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",福建海峡卫视
+http://r.jdshipin.com/WtYt3
+#EXTINF:-1 group-title="🇨🇳IPV4线路",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 group-title="🇨🇳IPV4线路",广西卫视
+http://111.59.24.227:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",广西卫视
+http://genglei.8866.org:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",广西卫视
+http://221.7.175.154:8445/tsfile/live/0113_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",广西卫视
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",湖北卫视
+http://221.7.175.154:8445/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",河北卫视
+http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",河北卫视
+http://221.7.175.154:8445/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",河南卫视
+http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",河南卫视
+http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",河南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳IPV4线路",河南卫视
+http://107.150.60.122/live/hawshd.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",吉林卫视
+http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",吉林卫视
+http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",江苏卫视
+http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",江苏卫视
+http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",江西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",江西卫视
+http://111.59.24.227:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",辽宁卫视
+http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",辽宁卫视
+http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",农林卫视
+http://111.59.24.227:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",内蒙古卫视
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",宁夏卫视
+http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",宁夏卫视
+http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",青海卫视
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",四川卫视
+http://111.59.24.227:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",四川卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
+#EXTINF:-1 group-title="🇨🇳IPV4线路",山东卫视
+http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",山东卫视
+http://genglei.8866.org:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",上海卫视
+http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳IPV4线路",三沙卫视
+http://198.204.228.26/live/ssws.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",山西卫视
+http://genglei.8866.org:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",山西卫视
+http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",陕西卫视
+http://genglei.8866.org:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",陕西卫视
+http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",深圳卫视
+http://genglei.8866.org:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",深圳卫视
+http://221.7.175.154:8445/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",天津卫视
+http://111.59.24.227:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",天津卫视
+http://221.7.175.154:8445/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",天津卫视
+http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",天津卫视
+http://genglei.8866.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",香港卫视
+https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",新疆卫视
+http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",新疆卫视
+http://112.27.5.218:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",新疆卫视
+http://genglei.8866.org:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",新疆卫视
+http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",新疆卫视
+http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",新疆卫视
+http://198.204.228.26/live/xjws.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",星空卫视
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",厦门卫视
+http://120.40.39.246:352/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",西藏卫视
+http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",西藏卫视
+http://genglei.8866.org:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",西藏卫视
+http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",西藏卫视
+http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",延边卫视
+https://srs.iyb983.cn:443/video/CYS/index.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",云南卫视
+http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",云南卫视
+http://genglei.8866.org:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",云南卫视
+http://101.66.195.43:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🇨🇳IPV4线路",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",浙江卫视
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 group-title="🇨🇳IPV4线路",浙江卫视
+http://221.7.175.154:8445/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
