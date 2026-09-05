@@ -13,6 +13,7 @@ TARGET_GROUP = "🇨🇳IPV4线路"
 def parse_any(text: str):
     res = []
     extinf_line = None
+    current_group = None  # 用于 TVBox 格式的当前分组
     for raw_line in text.splitlines():
         ln = raw_line.strip()
         if not ln:
@@ -28,7 +29,15 @@ def parse_any(text: str):
             sp = ln.split(',',1)
             name_part = sp[0].strip()
             url_part = sp[1].strip()
-            fake_ext = f'#EXTINF:-1,{name_part}'
+            # TVBox 格式：遇到 分组名,#genre# 记录当前分组
+            if url_part == "#genre#":
+                current_group = name_part
+                continue
+            # 普通频道行，带上当前分组
+            if current_group:
+                fake_ext = f'#EXTINF:-1 group-title="{current_group}",{name_part}'
+            else:
+                fake_ext = f'#EXTINF:-1,{name_part}'
             res.append((fake_ext, url_part))
     return res
 
