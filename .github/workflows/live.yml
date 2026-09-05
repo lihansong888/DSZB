@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'watchtv-one/cctv.py'
+      - 'watchtv/live.py'
       - '.github/workflows/live.yml'
   workflow_dispatch:
   schedule:
@@ -20,10 +20,10 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install requests
-      - run: python watchtv-one/cctv.py
+      - run: python watchtv/live.py
       - run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add watchtv-one/cctv.m3u8
-          git commit -m "auto update cctv.m3u8" || echo "nothing changed"
+          git add watchtv/live.m3u8
+          git commit -m "auto update live.m3u8" || echo "nothing changed"
           git push origin main
