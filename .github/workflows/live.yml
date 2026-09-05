@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
   schedule:
     # 每4小时运行一次
-    - cron: '0 */4 * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   sync:
