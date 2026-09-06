@@ -4,11 +4,12 @@ import os
 
 # ========== 填你这个央视频道源的地址 ==========
 URL_LIST = [
-    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt"
+    "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    #"https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt"
 ]
 
 # ========== 只保留这个分组，其他全屏蔽 ==========
-TARGET_GROUP = "🇨🇳IPV4线路"
+TARGET_GROUP = "咪咕央视2"
 
 def parse_any(text: str):
     res = []
