@@ -11,7 +11,7 @@ URL_LIST = [
 TARGET_GROUP = "🇨🇳IPV4线路"
 
 # ========== 输出时显示的分组名（随便改）==========
-OUTPUT_GROUP = "央视频道"
+OUTPUT_GROUP = "IPV4频道"
 
 def parse_any(text: str):
     res = []
