@@ -1,20 +1,22 @@
-import requests
+iimport requests
 import re
 import os
 
-# ========== 填你这个央视频道源的地址 ==========
+# ========== 填你这个源的地址 ==========
 URL_LIST = [
-    "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    #"https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt"
+    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt"
 ]
 
-# ========== 只保留这个分组，其他全屏蔽 ==========
-TARGET_GROUP = "咪咕央视2"
+# ========== 源里的分组名（用于匹配，必须和源里完全一致）==========
+TARGET_GROUP = "🇨🇳IPV4线路"
+
+# ========== 输出时显示的分组名（随便改）==========
+OUTPUT_GROUP = "IPV4频道"
 
 def parse_any(text: str):
     res = []
     extinf_line = None
-    current_group = None  # 用于 TVBox 格式的当前分组
+    current_group = None
     for raw_line in text.splitlines():
         ln = raw_line.strip()
         if not ln:
@@ -30,11 +32,9 @@ def parse_any(text: str):
             sp = ln.split(',',1)
             name_part = sp[0].strip()
             url_part = sp[1].strip()
-            # TVBox 格式：遇到 分组名,#genre# 记录当前分组
             if url_part == "#genre#":
                 current_group = name_part
                 continue
-            # 普通频道行，带上当前分组
             if current_group:
                 fake_ext = f'#EXTINF:-1 group-title="{current_group}",{name_part}'
             else:
@@ -54,7 +54,7 @@ def get_group_title(extinf):
     return ""
 
 def main():
-    group_bucket = {TARGET_GROUP: []}
+    group_bucket = {OUTPUT_GROUP: []}
     seen = set()
     for url in URL_LIST:
         try:
@@ -69,11 +69,11 @@ def main():
                 item_key = (ch_name, play_url)
                 if item_key not in seen:
                     seen.add(item_key)
-                    group_bucket[TARGET_GROUP].append((ch_name, play_url))
+                    group_bucket[OUTPUT_GROUP].append((ch_name, play_url))
         except Exception as e:
             print(f"⚠️ 拉取 {url} 失败：{e}")
     total_cnt = sum(len(v) for v in group_bucket.values())
-    print(f"✅筛选结束，[{TARGET_GROUP}] 一共保留频道：{total_cnt}")
+    print(f"✅筛选结束，从[{TARGET_GROUP}]提取，输出为[{OUTPUT_GROUP}]，共{total_cnt}个频道")
 
     out_dir = os.path.dirname(os.path.abspath(__file__))
     output_m3u = ["#EXTM3U"]
@@ -89,3 +89,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
